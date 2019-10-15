@@ -1,0 +1,18 @@
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\bin\Debug\Electro-MechanicalStimulator.exe
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\bin\Debug\Electro-MechanicalStimulator.pdb
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro_MechanicalStimulator.Form1.resources
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro_MechanicalStimulator.Properties.Resources.resources
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.csproj.GenerateResource.cache
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.csproj.CoreCompileInputs.cache
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.exe
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.pdb
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.csprojAssemblyReference.cache
+H:\개발 자료\Electro-MechanicalStimulator\Electro-MechanicalStimulator\bin\Debug\Electro-MechanicalStimulator.exe
+H:\개발 자료\Electro-MechanicalStimulator\Electro-MechanicalStimulator\bin\Debug\Electro-MechanicalStimulator.pdb
+H:\개발 자료\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.csprojAssemblyReference.cache
+H:\개발 자료\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro_MechanicalStimulator.Form1.resources
+H:\개발 자료\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro_MechanicalStimulator.Properties.Resources.resources
+H:\개발 자료\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.csproj.GenerateResource.cache
+H:\개발 자료\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.csproj.CoreCompileInputs.cache
+H:\개발 자료\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.exe
+H:\개발 자료\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Debug\Electro-MechanicalStimulator.pdb

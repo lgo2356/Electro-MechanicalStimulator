@@ -1,0 +1,9 @@
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\bin\Release\Electro-MechanicalStimulator.exe
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\bin\Release\Electro-MechanicalStimulator.pdb
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Release\Electro_MechanicalStimulator.Form1.resources
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Release\Electro_MechanicalStimulator.Properties.Resources.resources
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Release\Electro-MechanicalStimulator.csproj.GenerateResource.cache
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Release\Electro-MechanicalStimulator.csproj.CoreCompileInputs.cache
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Release\Electro-MechanicalStimulator.exe
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Release\Electro-MechanicalStimulator.pdb
+D:\workspace\C#\Electro-MechanicalStimulator\Electro-MechanicalStimulator\obj\Release\Electro-MechanicalStimulator.csprojAssemblyReference.cache
